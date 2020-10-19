@@ -34,6 +34,20 @@
 *That there are more than one uses to models. I used to think that it is just to bring clarity and see the future possible outcome in a simplified way, but there is more.*
 
 
+## Week 3
+
+### What have I learned this week?
+
+*There are different factors that have an effect on people's decision making process.*
+
+### What do I "now know" that I did not before?
+
+*I learned about the different models that can determine a person's decision making process.*
+
+### What insights have I gained?
+
+*That biases can't be completely eradicated for decision making, even if it is required.*
+
 
 
 
