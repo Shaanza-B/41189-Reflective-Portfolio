@@ -118,3 +118,95 @@
 
 
 ## Week 8
+
+### What have I learned this week?
+
+*About the Prisoner's Dilemma and the Colonel blotto game. They both show how different combinations and probabilities can have very different outcomes.*
+
+### What do I "now know" that I did not before?
+
+*Regarding the Colonel blotto game, it showed that there is not necessarily a right way to do things, as multiple combinations and strategies can fail.*
+
+### What insights have I gained?
+
+*There can be many right combinations and decisions to make, however it depends on what is needed at the time.*
+
+
+## Week 9
+
+### What have I learned this week?
+
+*I learned more about the markov model and how it can be used.*
+
+### What do I "now know" that I did not before?
+
+*The use of probability can be used in more cases than I knew before. There is definitely a right way to use it, but it is a very useful tool*
+
+### What insights have I gained?
+
+*The markov model is a useful tool that can help determine future states taking the previous and current states in consideration.*
+
+### What are my perceived strengths and weaknesses that I have observed?
+
+*I can work in a group really well when there is open communication. My group is open and honest about what we want to achieve, and I can work well with them.*
+
+
+## Week 10
+
+### What have I learned this week?
+
+*That markov models can be represented in code form, and it is quite useful to do so.*
+
+### What do I "now know" that I did not before?
+
+*That markov chains are a way to show markov models in Python.*
+
+### What insights have I gained?
+
+### What are my perceived strengths and weaknesses that I have observed?
+
+*I've never quite liked coding, but I learned that if I put my mind to it and try and understand it it is quite enjoyable and interesting. I'd say that I'm open to learning new things.*
+
+### What were the challenges I have encountered and how well did I/my team handle them?
+
+*We were all new to Python and the idea of the models, but with collective team work and helping each other we learned to distribute the work evenly amongst each other and made sure everyone was sure of what we were supposed to do.*
+
+
+## Week 11
+
+### What have I learned this week?
+
+*I learned more about the markov chain which is a way to show the markov model on Python and the variables needed.*
+
+### What do I "now know" that I did not before?
+
+*About the different variables needed in the markov chain and how they work.*
+
+### What insights have I gained?
+
+*That understanding code is better than just memorising it.*
+
+
+## Week 12
+
+### What have I learned this week?
+
+*I learned more aobut the markov chain.*
+
+### What do I "now know" that I did not before?
+
+*How probability is used in the markov chain to represent different states.*
+
+### What insights have I gained?
+
+### What are my perceived weaknesses and strengths that I have observed?
+
+*I learned that I can be quite impatient when running code and especially when it turns out to not work, which is a weakness.*
+
+### What would I do better next time and with what anticipated result?
+
+*It is better to be patient and understand what is wrong with the code. This way it will be easier figuring things out and getting the right result quickly.*
+
+
+
+
